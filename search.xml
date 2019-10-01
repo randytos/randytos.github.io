@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>github图床测试页</title>
+      <link href="/2019/10/01/about/"/>
+      <url>/2019/10/01/about/</url>
+      
+        <content type="html"><![CDATA[<p>这里是内容啦</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 更新日志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> build </tag>
+            
+            <tag> test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2019-10-01 建站更新</title>
       <link href="/2019/10/01/2019-10-01%20%E5%BB%BA%E7%AB%99%E6%9B%B4%E6%96%B0/"/>
       <url>/2019/10/01/2019-10-01%20%E5%BB%BA%E7%AB%99%E6%9B%B4%E6%96%B0/</url>
