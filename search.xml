@@ -8,7 +8,7 @@
       <link href="/2019/10/01/%E7%9B%AE%E5%BD%95%E6%B5%8B%E8%AF%95/"/>
       <url>/2019/10/01/%E7%9B%AE%E5%BD%95%E6%B5%8B%E8%AF%95/</url>
       
-        <content type="html"><![CDATA[<p>此页为目录标签跳转测试页</p><h3 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h3><p>@[toc]</p><h2 id="1-唐"><a href="#1-唐" class="headerlink" title="1. 唐"></a>1. 唐</h2><p>1.1 唐 春<br>内容内容内容内容内容内容内容内容内容内容内容<br>内容内容内容内容内容内容内容</p><p>1.2 唐 夏<br>内容内容内容内容内容<br>内容内容内容内容内容内容内容内容内容</p><h2 id="2-宋"><a href="#2-宋" class="headerlink" title="2. 宋"></a>2. 宋</h2><p>2.1 宋 春<br>内容内容内容内容内容<br>内容内容内容内容内容内容<br>内容内容内容</p><p>2.2 宋 夏@[toc]<br>内容<br>内容<br>内容</p>]]></content>
+        <content type="html"><![CDATA[<p>此页为目录标签跳转测试页</p><pre><code>@[toc]</code></pre><h2 id="1-唐"><a href="#1-唐" class="headerlink" title="1. 唐"></a>1. 唐</h2><pre><code>1.1 唐 春内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容1.2 唐 夏内容内容内容内容内容内容内容内容内容内容内容内容内容内容</code></pre><h2 id="2-宋"><a href="#2-宋" class="headerlink" title="2. 宋"></a>2. 宋</h2><pre><code>2.1 宋 春内容内容内容内容内容内容内容内容内容内容内容内容内容内容2.2 宋 夏内容内容内容</code></pre>]]></content>
       
       
       <categories>
