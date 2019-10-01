@@ -70,9 +70,9 @@
       
         <tags>
             
-            <tag> build </tag>
-            
             <tag> test </tag>
+            
+            <tag> build </tag>
             
         </tags>
       
