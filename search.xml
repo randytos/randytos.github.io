@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>2019-10-01 建站更新</title>
+      <link href="/2019/10/01/2019-10-01%20%E5%BB%BA%E7%AB%99%E6%9B%B4%E6%96%B0/"/>
+      <url>/2019/10/01/2019-10-01%20%E5%BB%BA%E7%AB%99%E6%9B%B4%E6%96%B0/</url>
+      
+        <content type="html"><![CDATA[<p>已做：</p><p>增加 更新日志 类</p><p>增加图床，暂定github图床</p><p>试用picgo上传</p><p>SMMS图床已注册验证，备用。</p><p>更新支付宝，微信赞助二维码。</p><p>待做：</p><p>更新页面底部说明文字</p><p>更新about页</p><p>更新社交媒体链接图标</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 更新日志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> build </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>github图床测试页</title>
       <link href="/2019/10/01/github%E5%9B%BE%E5%BA%8A%E6%B5%8B%E8%AF%95%E9%A1%B5/"/>
       <url>/2019/10/01/github%E5%9B%BE%E5%BA%8A%E6%B5%8B%E8%AF%95%E9%A1%B5/</url>
@@ -20,9 +45,9 @@
       
         <tags>
             
-            <tag> test </tag>
-            
             <tag> build </tag>
+            
+            <tag> test </tag>
             
         </tags>
       
@@ -267,9 +292,9 @@
       
         <tags>
             
-            <tag> test </tag>
-            
             <tag> build </tag>
+            
+            <tag> test </tag>
             
         </tags>
       
