@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> build </tag>
-            
             <tag> test </tag>
+            
+            <tag> build </tag>
             
         </tags>
       
@@ -35,7 +35,7 @@
       <link href="/2019/10/02/2019-10-02%20%E5%BB%BA%E7%AB%99%E6%9B%B4%E6%96%B0/"/>
       <url>/2019/10/02/2019-10-02%20%E5%BB%BA%E7%AB%99%E6%9B%B4%E6%96%B0/</url>
       
-        <content type="html"><![CDATA[<p>已做：</p><p>SMMS图床测试页 （页面登录上传）</p><p>优化头像，图标加载速度</p>]]></content>
+        <content type="html"><![CDATA[<p>已做：</p><p>SMMS图床测试页 （页面登录上传）</p><p>优化头像，图标加载速度</p><p>试用必得利评论区支持 不好用 暂时停用页面评论功能</p>]]></content>
       
       
       <categories>
@@ -122,9 +122,9 @@
       
         <tags>
             
-            <tag> build </tag>
-            
             <tag> test </tag>
+            
+            <tag> build </tag>
             
         </tags>
       
